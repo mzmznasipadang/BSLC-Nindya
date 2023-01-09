@@ -1,2 +1,0 @@
-# BSLC-Nindya
-mewek mewek
