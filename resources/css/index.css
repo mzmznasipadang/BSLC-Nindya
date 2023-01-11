@@ -8,7 +8,7 @@ body {
     overflow-x: hidden;
   }
   
-  a {
+  .a {
     text-decoration: none;
     color: white;
   }
@@ -44,7 +44,7 @@ body {
     text-align: center;
   }
   
-  #hamburger {
+  .hamburger {
     font-size: 1.5rem;
   }
   
@@ -95,7 +95,7 @@ body {
     padding: 0.5em;
   }
   
-  footer {
+  .footer {
     display: flex;
     padding: 1em;
     flex-direction: column;
@@ -103,7 +103,7 @@ body {
     border-top: 1px solid gray;
   }
   
-  footer p {
+  .footer p {
     color: black;
     font-size: 0.5rem;
   }
