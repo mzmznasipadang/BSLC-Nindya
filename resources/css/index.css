@@ -49,7 +49,7 @@ body {
   }
   
   .welcome-message {
-    background-color: black;
+    background-color: white;
     position: relative;
     display: flex;
     flex-direction: column;
@@ -61,7 +61,7 @@ body {
     position: absolute;
     object-fit: cover;
     width: 100vw;
-    height: 75vh;
+    height: 80vh;
     opacity: 0.4;
   }
   
